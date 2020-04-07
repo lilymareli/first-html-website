@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Merve Küçük">
+  <title>➳Lily's nonpersonal site</title>
+</head>
+
+<body>
+<table>
+  <tr>
+    <td><img src="images/circle-cropped.png" alt="merve kucuk one of first photo"></td>
+    <td><h1> Merve Küçük </h1>
+    <h2>nice try bro</h2>
+    <p><i>Sales & Operations Specialist, and let's see what else.</i></p>
+    <p>I would like to be a web developer annnnd an app developer, I am really very much interested in the development. Well, enough bullshitting. <br>Thanks!</p>
+  </td>
+  </tr>
+</table>
+  <hr noshade size="3">
+
+  <h2><strong>My quarantine to-do list:</strong></h2>
+  <ol>
+    <li>read your books
+      <ul>
+        <li><a href="https://www.dr.com.tr/Kitap/Hayati-Yeniden-Kesfedin/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000387954">hayatı yeniden keşfedin</a></li>
+        <li><a href="https://www.dr.com.tr/Kitap/Hayati-Yeniden-Kesfedin/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000387954">deniz feneri</a></li>
+      </ul>
+    </li>
+    <li>love yourself</li>
+    <li>learn coding
+      <ul>
+        <li>react</li>
+        <li>html</li>
+        <li>css</li>
+        <li>javascript</li>
+        <li>flutter</li>
+      </ul>
+    </li>
+    <li>improve your English</li>
+    <li>improve your Spanish</li>
+    <li>do yoga, pilates and exercise</li>
+    <li>dance solo jazz and lindy hop</li>
+    <li>travel to online museums, collections and exhibitions</li>
+    <li>enjoy online concerts</li>
+  </ol>
+  </ul>
+  </p>
+  <hr noshade size="3">
+  <h2>Work Experiences</h2>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>January - April 2020</td>
+        <td>Operations Specialist at Farnaway Travel</td>
+      </tr>
+      <tr>
+        <td>May 2018 - August 2019</td>
+        <td>Sales Specialist at Sea Song Tours</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td><table>
+        <tr>
+          <td>English </td>
+          <td>🌟🌟🌟🌟🌟 </td>
+        </tr>
+        <tr>
+          <td>Spanish</td>
+          <td>🌟🌟</td>
+        </tr>
+      </table></td>
+      <td>
+  <table>
+    <tr>
+      <td>Piano </td>
+      <td>🌟</td>
+    </tr>
+    <tr>
+      <td>Swing Dance</td>
+      <td>🌟🌟🌟</td>
+    </tr>
+  </table>
+    </td>
+  </tr>
+  </table>
+
+  <img src="https://pbs.twimg.com/profile_images/1211257295855869954/STWBNeph_400x400.jpg" alt="lilymareli profile image">
+  <p> <strong>Not enough?</strong> <a href="Contact me.html">Click</a> to see more. </p>
+
+
+  </html>
